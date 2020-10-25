@@ -4,6 +4,7 @@ module.exports = {
     config.node = {
       fs: 'empty'
     }
+    /* this the new file*/
 
     return config
   }
